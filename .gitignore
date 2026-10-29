@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Gradio
+.gradio/
+flagged/
+
+# Big or third-party files
+*.pdf
+
+# Private notes
+notes.md
+predictions.txt.txt
